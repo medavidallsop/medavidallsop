@@ -6,7 +6,7 @@
 <h2>👨‍💻 About my GitHub</h2>
 <ul>
 	<li>I mostly use this account to contribute to open source projects</li>
-	<li>I use several other accounts for closed source projects</li>
+	<li>I use other accounts for certain closed source projects</li>
 </ul>
 <h2>🗂️ Contributions</h2>
 <p>I actively contribute to these open source projects, and many more.</p>
