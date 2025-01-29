@@ -11,8 +11,7 @@
 <h2>📈 Activity</h2>
 <p>Summary of my activity via this GitHub account.</p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=medavidallsop&card_width=500&hide_title=true&locale=en&rank_icon=percentile&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true"></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=medavidallsop&card_width=500"></p>
+<p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=medavidallsop&card_width=500"></p>
 <h2>💻 Languages</h2>
 <p>Summary of the coding languages I have used via this GitHub account.</p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medavidallsop&card_width=500&hide_title=true&langs_count=20&layout=compact"></p>
-
