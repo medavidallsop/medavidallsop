@@ -4,14 +4,10 @@
 <p>Learn more about me <a href="https://davidallsop.com" target="_blank">on my website</a>.</p>
 <p><img src="https://komarev.com/ghpvc/?username=medavidallsop&label=Profile%20views"></p>
 <h2>👨‍💻 About my GitHub</h2>
-<ul>
-	<li>I mostly use this account to contribute to open source projects</li>
-	<li>I use other accounts for certain closed source projects</li>
-</ul>
+<p>I use this account to contribute to both <strong>public</strong> and <strong>private</strong> projects.</p>
 <h2>📈 Activity</h2>
 <p>Summary of my activity via this GitHub account.</p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=medavidallsop&card_width=500&hide_title=true&locale=en&rank_icon=percentile&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true"></p>
 <p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=medavidallsop&card_width=500"></p>
 <h2>💻 Languages</h2>
-<p>Summary of the coding languages I have used via this GitHub account.</p>
+<p>Summary of the coding languages used in my <strong>public</strong> contributions via this GitHub account.</p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medavidallsop&card_width=500&hide_title=true&langs_count=20&layout=compact"></p>
