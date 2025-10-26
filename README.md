@@ -1,4 +1,4 @@
-<h1>Working in web and eCommerce since the early 00s</h1>
+<h1>Working in Web and eCommerce Since the Early 00s</h1>
 <p>Throughout my career, I have held roles in the fields of web development, web design, digital marketing, website/content management, and beyond, as an employee, contractor, and freelancer.</p>
 <p>I have collaborated with various businesses, ranging from small local enterprises to large multinational B2B companies, in addition to possessing experience in establishing and managing web and eCommerce businesses.</p>
 <p>Learn more about me <a href="https://davidallsop.com" target="_blank">on my website</a>.</p>
