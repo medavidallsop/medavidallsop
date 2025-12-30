@@ -8,6 +8,3 @@
 <h2>📈 Activity</h2>
 <p>Summary of my activity via this GitHub account.</p>
 <p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=medavidallsop&card_width=500"></p>
-<h2>💻 Languages</h2>
-<p>Summary of the coding languages used in my <strong>public</strong> contributions via this GitHub account.</p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medavidallsop&card_width=500&hide_title=true&langs_count=20&layout=compact"></p>
